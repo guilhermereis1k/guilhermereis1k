@@ -11,7 +11,7 @@ I'm a former graphic designer who has been studying development for 2 years and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1k)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Technologies that I use in my day to day
+## Technologies
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
