@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a former graphic designer who has been studying front end development for 2 years and currently focusing in ReactJS, in that time I've done some freelancing projects which you can see here in my profile.
+I'm a former graphic designer who has been studying development for 2 years and currently focusing in Java and ReactJS, in that time I've done some freelancing projects which you can see here in my profile.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1k)](https://github.com/anuraghazra/github-readme-stats)
 
