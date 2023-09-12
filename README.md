@@ -8,7 +8,7 @@
 
 I'm a former graphic designer who has been studying development for 2 years and currently focusing in Java and ReactJS, in that time I've done some freelancing projects which you can see here in my profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1k)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1k&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies
