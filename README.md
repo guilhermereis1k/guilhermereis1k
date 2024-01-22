@@ -8,6 +8,11 @@
 
 I'm a former graphic designer who has been studying development for 2 years and currently focusing in .NET with Blazor, in that time I've done some freelancing projects which you can see here in my profile.
 
+Want to know some of my work?
+See this project: 
+https://github.com/guilhermereis1k/MeetTheRich-spring-react
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1k&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
