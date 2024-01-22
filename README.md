@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a former graphic designer who has been studying development for 2 years and currently focusing in Java and ReactJS, in that time I've done some freelancing projects which you can see here in my profile.
+I'm a former graphic designer who has been studying development for 2 years and currently focusing in .NET with Blazor, in that time I've done some freelancing projects which you can see here in my profile.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1k&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,6 +14,8 @@ I'm a former graphic designer who has been studying development for 2 years and 
 ## Technologies
 
 <div style="display: inline_block">
+  <img align="center" alt="java" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
