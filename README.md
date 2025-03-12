@@ -6,10 +6,10 @@
 
 ## About me
 
-I'm a former graphic designer who has been studying development for 2 years and currently focusing in .NET with Blazor, in that time I've done some freelancing projects which you can see here in my profile.
+Studying coding actively since 2021, currently focusing in Java with Spring boot in Rest projects.
 
 Want to know some of my work?
-See this project: 
+Check this project: 
 https://github.com/guilhermereis1k/MeetTheRich-spring-react
 
 
