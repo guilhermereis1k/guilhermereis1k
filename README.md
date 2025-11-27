@@ -5,7 +5,7 @@
 
 ## About me
 
-Studying coding actively since 2022, currently focusing in .NET, creating Restful Application.
+Studying coding actively since 2022, currently focusing in .NET, creating APIs and fullstack applications.
 
 Want to see some of my work?
 Check this project: 
